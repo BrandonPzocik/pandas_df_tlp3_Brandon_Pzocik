@@ -3,13 +3,13 @@
 
 - Python 3.x
 - pandas
-
-
-Instalación de `pandas`:
+- 
+### Instalación de `pandas`:
 ```bash
 pip install pandas
+```
 
-## Cómo usar 
+## Cómo usar 📦
 
 1. Cloná o descargá este repositorio.
 2. Abrí el archivo `.ipynb` con tu editor favorito.
